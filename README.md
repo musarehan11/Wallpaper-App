@@ -1,2 +1,16 @@
-# Wallpaper-App
-A beautifully designed Wallpaper App built with Flutter. It offers a wide range of high-quality HD and 4K wallpapers across multiple categories. Users can browse, preview, and set wallpapers instantly. Clean UI, smooth performance, and an elegant layout for a premium visual experience.
+# my_wallpaper_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
